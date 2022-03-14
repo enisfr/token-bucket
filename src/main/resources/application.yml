@@ -1,0 +1,7 @@
+redis:
+  cache:
+    ttl: 2
+
+bucket:
+  capacity: 5
+  refill-rate: 60000
