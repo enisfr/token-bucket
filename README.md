@@ -3,7 +3,7 @@
 # Token Bucket
 This project is developed by [enisfr](https://github.com/enisfr)
 
-This is a Spring Boot project whihc is the implementation of Token Bucket algorithm with redis. Limiting is performed inside the spring filters.
+This is a Spring Boot project whihch is the implementation of Token Bucket algorithm with redis. Limiting is performed inside the spring filters.
 
 # Stack
 
